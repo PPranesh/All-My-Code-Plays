@@ -9,7 +9,7 @@
  * @author Pranesh
  */
 import java.util.Scanner;
-public class Count_Divisors {
+public class CountDivisors {
     public static void main(String[] args){
         int a =0;
         Scanner s = new Scanner(System.in);
