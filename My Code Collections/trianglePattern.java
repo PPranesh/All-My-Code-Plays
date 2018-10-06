@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Pranesh
  */
-public class star {
+public class trianglePattern {
     public static void main(String[] args){
         int n;
         Scanner d = new Scanner(System.in);
