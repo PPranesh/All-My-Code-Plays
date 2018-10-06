@@ -21,4 +21,4 @@ public class Solution {
       // prints the output
       System.out.println(inputString);
     }
-  }
+}
