@@ -11,7 +11,7 @@
 
 
 import java.util.*;
-public class new_anagram {
+public class newAnagram {
     public static void main(String[] args){
         
         Scanner s = new Scanner(System.in);
