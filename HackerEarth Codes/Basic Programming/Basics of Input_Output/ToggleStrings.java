@@ -9,7 +9,7 @@
  * @author Pranesh
  */
 import java.util.*;
-public class CaseStrings {
+public class ToggleStrings {
     public static void main(String[] args){
         String a;
         Scanner s = new Scanner(System.in);
