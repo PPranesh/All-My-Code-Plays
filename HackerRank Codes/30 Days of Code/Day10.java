@@ -36,8 +36,11 @@ public class binaryNumbers {
                 b=0;
            }
        }
-       /*if(b>c)
-            c=b;*/
        System.out.println(c);
     }
 }
+
+
+
+
+
