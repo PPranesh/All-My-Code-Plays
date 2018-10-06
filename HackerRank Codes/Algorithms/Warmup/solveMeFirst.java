@@ -19,3 +19,6 @@ public class solveMeFirst {
         System.out.println(sum);
   }
 }
+
+
+
