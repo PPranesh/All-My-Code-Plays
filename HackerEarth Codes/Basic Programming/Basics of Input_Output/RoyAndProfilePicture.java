@@ -9,7 +9,7 @@
  * @author Pranesh
  */
 import java.util.Scanner;
-public class Roy_and_Profile_Picture {
+public class RoyAndProfilePicture {
     public static void main(String[] args){
         int L,N;
         Scanner s = new Scanner(System.in);
