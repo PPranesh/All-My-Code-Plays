@@ -5,7 +5,7 @@ package MyLinkedList;
 import java.util.Scanner;
 
 // Main Class
-public class playerMain {
+public class MainPlayer {
     
     public static void main(String[] args){
         
