@@ -13,6 +13,3 @@ public class JavaOutputFormatting {
             System.out.println("================================");
     }
 }
-
-
-
