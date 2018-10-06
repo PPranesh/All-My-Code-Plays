@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author Pranesh
  */
-public class Package_LinkedList {
+public class PackageLinkedList {
     public static void main(String[] args){
         int n,a,value;          //global variables
         boolean q=true;
