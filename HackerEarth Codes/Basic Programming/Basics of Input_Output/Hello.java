@@ -4,8 +4,6 @@ class Hello {
     public static void main(String[] args) throws Exception{
         
         // pin he required output
-        System.out.println("Hello Kirti");
-    
-        
+        System.out.println("Hello Kirti");  
     }
 }
