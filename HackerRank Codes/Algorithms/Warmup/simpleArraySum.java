@@ -21,3 +21,7 @@ public class simpleArraySum {
     System.out.print(sum);
   }
 }
+
+
+
+
