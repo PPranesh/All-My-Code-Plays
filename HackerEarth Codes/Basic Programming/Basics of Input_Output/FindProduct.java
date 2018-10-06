@@ -10,7 +10,7 @@
  */
 
 import java.util.Scanner;
-public class Find_Product {
+public class FindProduct {
     
     // main function
     public static void main(String[] args){
