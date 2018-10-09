@@ -8,7 +8,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Print_the_Elements_in_LinkedList {
+public class displayLinkedList {
 
     static class SinglyLinkedListNode {
         public int data;
