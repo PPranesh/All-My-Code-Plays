@@ -6,10 +6,10 @@ package HackerRank_Algorithms;
 /**
  * @author Pranesh
  *
- * May 12, 2019 - Designer_PDF_Viewer.java
+ * May 12, 2019 - Sequence_Equation.java
  */
 import java.util.Scanner;
-public class Designer_PDF_Viewer {
+public class Sequence_Equation {
 
 	/**
 	 * @param args
